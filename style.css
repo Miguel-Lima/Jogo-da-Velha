@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #333;
+    background-color: rgba(26, 51, 1, 0.802);
     font-family: Arial, Helvetica, sans-serif;
 }
 
