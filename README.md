@@ -2,7 +2,7 @@
 Adicionado estruturas HTML e CSS  30%;
 </br>
 
-Sem estrutura JS no momento;
+Adicionando estruturas JS (Evento de click, condições de escolha do player 'X' ou 'o', Mudando os dados adicionais da memória, adicionando o for para percorrer as divs)
 
 </br>
 
