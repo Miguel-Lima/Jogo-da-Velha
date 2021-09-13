@@ -1,11 +1,11 @@
 ﻿# Jogo-da-Velha
-Adicionado estruturas HTML e CSS  90%;
+Adicionado estruturas HTML e CSS  100%;
 </br>
 
-Adicionando eventos e funções de Click
+Funções e evento completo, Adicionado evento, clicks, reconhecimento de divs selecionadas pelo player, vitória do player.
 
 </br>
 
-Projeto em andamento 50%
+# Projeto concluído
 </br>
 
