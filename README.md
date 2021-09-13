@@ -1,5 +1,5 @@
 ﻿# Jogo-da-Velha
-Adicionado estruturas HTML e CSS  30%;
+Adicionado estruturas HTML e CSS  90%;
 </br>
 
 Adicionando eventos e funções de Click
