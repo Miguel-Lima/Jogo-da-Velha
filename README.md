@@ -1,11 +1,11 @@
 ﻿# Jogo-da-Velha
-Adicionado estruturas HTML e CSS  100%;
+Added 100% HTML and CSS structures;
 </br>
 
-Funções e evento completo, Adicionado evento, clicks, reconhecimento de divs selecionadas pelo player, vitória do player.
-
+Functions and full event, Added event, clicks, recognition of player selected divs, player win.
 </br>
 
-# Projeto concluído
+# Project completed
+
 </br>
 
