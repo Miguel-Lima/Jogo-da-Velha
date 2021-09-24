@@ -6,15 +6,21 @@
  
  </div>
  
- </br>
+## 🚀 Technologies 
+ 
+ - ✔️ Javascript
+ - ✔️ HTML
+ - ✔️ CSS
 
-Added 100% HTML and CSS structures;
-</br>
+<br>
 
-Functions and full event, Added event, clicks, recognition of player selected divs, player win.
-</br>
+# About this project
+The idea of this project is
+ > - Insert an old game into codes.
+ > - Two players will choose whether they want to be "X" or "O".
+ > - Each will respect his turn to play.
+ > - The game may have a winner or draw.
 
-# Project completed
+<br>
 
-</br>
-
+# Project Complete 💥
